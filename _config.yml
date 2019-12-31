@@ -31,16 +31,16 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: matken11235
+  facebook: matken.jp
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
-  medium: matken11235
+  medium: matken.jp
   # stackoverflow: your_user_id
   # telegram: your_username
-  twitter: matken11235
+  twitter: matken_jp
   # unsplash: your_username
   # vk: your_username
   website: https://matken11235.github.io
@@ -50,4 +50,3 @@ topics:
   - name: C++
     web_url: https://github.com/topics/cpp
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
-
